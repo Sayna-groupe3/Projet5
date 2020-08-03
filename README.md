@@ -15,11 +15,11 @@ Voici la liste des programmes :
 
 Voici comment on a mis en disposition les fichiers du programme :
 
--   00_multiples.rb
--   01_cryptofolies.rb
--   02_trader.rb
--   03_compteur_de_mots.rb
--   04_shakespeare.rb
+-   *00_multiples.rb*
+-   *01_cryptofolies.rb*
+-   *02_trader.rb*
+-   *03_compteur_de_mots.rb*
+-   *04_shakespeare.rb*
 
 			*Membres du Groupe 3 qui ont participé au travail de ce projet:*
       
